@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 920px;
+  padding: 20px;
+}
+
+.chat-container {
+  display: flex;
+}
+
+.history {
+  background-color: #f2f2f2;
+  height: 600px;
+  overflow: auto;
+  padding: 10px;
+  width: 70%;
+}
+
+/* .message-item {
+  background-color: #ccc;
+  margin-right: 5px;
+} */
+
+.users {
+  background-color: lightgrey;
+  padding: 10px;
+  width: 30%;
+}
+
+/* #messages {
+  margin-top: 10px;
+}
+
+#nickname {
+  margin-bottom: 10px;
+} */

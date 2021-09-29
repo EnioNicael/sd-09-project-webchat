@@ -10,7 +10,7 @@ Este é um projeto do modulo de **backend** do curso da Trybe.
 
 - Usar o pacote `socket.io` do `Node.js` para criar aplicações que trafeguem mensagens através de sockets;
 
-- Usar o `ejs` para implementar o **frontend**.
+- Usar a template engine `ejs` para implementar o **frontend**.
 
 ## Desenvolvimento
 
